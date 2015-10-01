@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="a_label">a</string>
+    <string name="a_placeholder">enter a here</string>
+    <string name="b_label">b</string>
+    <string name="b_placeholder">enter b here</string>
+    <string name="c_label">c</string>
+    <string name="c_placeholder">enter c here</string>
+    <string name="result_text">Empty Result</string>
+    <string name="calculate_button">POOF!</string>
+    <string name="title_activity_chat_main">ChatMain</string>
+
+</resources>
